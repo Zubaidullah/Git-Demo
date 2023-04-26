@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1017150665542",
+    "project_id": "cpd-android-b64ef",
+    "storage_bucket": "cpd-android-b64ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017150665542:android:76d269f5ad3e80a6e72b47",
+        "android_client_info": {
+          "package_name": "com.zubaid.cpd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017150665542-asgalrjj8e7v8lrc6nqoe3okvd4ceocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9G6VE1oT6AvyEWwX8okJV2I5z6Bb4HzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017150665542-asgalrjj8e7v8lrc6nqoe3okvd4ceocq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017150665542:android:10436a755789923be72b47",
+        "android_client_info": {
+          "package_name": "com.zubaid.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017150665542-asgalrjj8e7v8lrc6nqoe3okvd4ceocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9G6VE1oT6AvyEWwX8okJV2I5z6Bb4HzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017150665542-asgalrjj8e7v8lrc6nqoe3okvd4ceocq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

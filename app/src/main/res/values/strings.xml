@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CPD</string>
+    <string name="welcome_to_cdp">Welcome to CDP</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="registertext">RegisterText</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">signup</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="already_have_an_account_login_android_textcolor">Already have an account? Login android:textColor=</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
